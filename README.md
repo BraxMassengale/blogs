@@ -1,4 +1,3 @@
 # Blogs
----
 
-This is a collection of blogs that I have written.
+This is a directory for all of my blogs
